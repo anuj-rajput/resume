@@ -96,7 +96,7 @@ __Lead iOS Developer__
 - Designed, developed and delivered the iOS App from scratch.
 - Helped the team understand the business by identifying the problems and coming up with solutions.
 
-__Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Universal Links, Realm, REST, Sockets, OAuth 2, Firebase, Fastlane
+__Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Universal Links, Realm, REST, Sockets, OAuth 2, JWT, Firebase, Fastlane
 
 ### RoadCast Tech
 New Delhi, India
