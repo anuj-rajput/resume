@@ -5,11 +5,14 @@
 ## Experience
 ### Nineleaps Tech
 Bengaluru, India - Remote
+
 _October 2020 － Present_
+
 __iOS, Software Development Engineer III__
 
 ### Bubblin
 Washington DC, United States - Remote
+
 _March, 2019 － September, 2020_
 
 Red Goose is a web to mobile app converter which is primarily targeted at startups and small businesses who want to have a presence on mobile platforms in addition to their existing web apps. It is a nifty tool to convert websites into mobile apps.
@@ -34,6 +37,7 @@ __Technologies__: Swift, Kotlin, JavaScript, Shell, MongoDB, HTML, CSS, Xcode, A
 
 ### Wooplr Technologies
 Bengaluru, India
+
 _August, 2017 － March, 2019_
 
 Wooplr App enabled the shop owners to open their online e-commerce store. Built on top of the e-commerce platform, it helped them to place orders on their customers’ behalf, discover new products to sell on a regularly updated and curated feed of products and product collections, track their earnings, read and watch videos of helpful FAQs to learn about operating an online business. It was used by more than 10 million users.
@@ -73,6 +77,7 @@ __Technologies__: Objective-C, Swift, Xcode, CoreData, Realm, Push Notifications
 
 ### Vicinage Networks
 New Delhi, India
+
 _August, 2016 － July, 2017_
 
 MYOLO was a community and event platform which helped users discover people with similar interests to create meaningful interactions and conversations. It also listed events based on specific interests. The application let users discover other users, chat with them, find new events happening around them, reserve and book tickets for events. Monthly active users were 20,000
@@ -95,6 +100,7 @@ __Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Univer
 
 ### RoadCast Tech
 New Delhi, India
+
 _November, 2015 — July, 2016_
 
 RoadCast App is a two-way tracking platform. Two or more users can connect with this application on their mobile device and allow instant access to their travel route shown through Google Maps making it easy to follow one’s route.
@@ -112,6 +118,7 @@ __Technologies__: Objective-C, MVVM, Push Notifications, Real Time Navigation, L
 
 ### Teamie
 New Delhi, India & Singapore, Singapore
+
 _July, 2012 － July, 2016_
 
 Teamie is a Social Learning Platform that makes learning fun & collaborative, while helping teachers save their time, and providing real-time visibility to parents & school management. Teamie app enables educators, students, administrators and parents to collaborate on a single platform. Access classrooms, newsfeed, notifications on bulletin board, share thoughts or questions, interact socially on thoughts (Comment, Like / Echo), view lessons & quizzes, take photos & videos and share with the classroom.
@@ -146,6 +153,7 @@ Bachelor of Technology, Computer Science
 ## Internships
 ### Accentium Web
 Gurgaon, India
+
 _Jul 2011 - Aug 2011_
 
 __Backend Engineer Intern__
