@@ -1,7 +1,5 @@
 
 # Anuj Rajput
-Bengaluru, India
-
 [+91-9810204945](tel://+919810204945) | [me@anujrajput.com](mailto:me@anujrajput.com) | [Twitter](https://twitter.com/anujrajput) | [LinkedIn](https://linkedin.com/in/anujrajput) | [GitHub](https://github.com/anuj-rajput)
 
 ## Experience
