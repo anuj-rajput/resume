@@ -44,7 +44,7 @@ _August, 2017 - March, 2019_
 
 Wooplr App enabled the shop owners to open their online e-commerce store. Built on top of the e-commerce platform, it helped them to place orders on their customers’ behalf, discover new products to sell on a regularly updated and curated feed of products and product collections, track their earnings, read and watch videos of helpful FAQs to learn about operating an online business. It was used by more than 10 million users.
 
-__Product Engineer__
+__Product Engineer__  
 _Product Management & Development_
 - _Earnings Framework_: Conceptualised and built a framework for seller earning commissions and rewards.
 - _Social Sharing_: Conceptualised and developed a model for social sharing which increased the sharing and visibility of the products and catalogues by 600% and overall conversions by ~50%.
