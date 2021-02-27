@@ -101,7 +101,7 @@ __Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Univer
 
 ### RoadCast Tech
 New Delhi, India  
-_November, 2015 — July, 2016_
+_November, 2015 - July, 2016_
 
 RoadCast App is a two-way tracking platform. Two or more users can connect with this application on their mobile device and allow instant access to their travel route shown through Google Maps making it easy to follow one’s route.
 
