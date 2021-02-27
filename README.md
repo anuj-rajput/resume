@@ -10,6 +10,11 @@ _October 2020 － Present_
 
 __iOS, Software Development Engineer III__
 
+- Currently learning: [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
+- Read and implemented [Beginner](https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0) and [Advanced Design Patterns](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [Data Structures](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift/v3.0) and [Concurrency in Swift](https://www.raywenderlich.com/books/concurrency-by-tutorials/v2.0)
+- Followed and implemented [Hacking with Swift - 100 Days of Swift](https://www.hackingwithswift.com/100) and [Hacking with Swift - 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- Implemented a Journal App POC
+
 ### Bubblin
 Washington DC, United States - Remote
 
