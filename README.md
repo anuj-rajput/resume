@@ -6,6 +6,7 @@
 ### Nineleaps Tech
 Bengaluru, India - Remote  
 _October 2020 - Present_  
+
 __Software Development Engineer III - iOS__  
 
 - Currently learning: [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
@@ -100,7 +101,7 @@ __Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Univer
 
 ### RoadCast Tech
 New Delhi, India  
-_November, 2015 — July, 2016_
+_November, 2015 - July, 2016_
 
 RoadCast App is a two-way tracking platform. Two or more users can connect with this application on their mobile device and allow instant access to their travel route shown through Google Maps making it easy to follow one’s route.
 
