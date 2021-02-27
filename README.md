@@ -4,11 +4,9 @@
 
 ## Experience
 ### Nineleaps Tech
-Bengaluru, India - Remote
-
-_October 2020 - Present_
-
-__Software Development Engineer III - iOS__
+Bengaluru, India - Remote  
+_October 2020 - Present_  
+__Software Development Engineer III - iOS__  
 
 - Currently learning: [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
 - Read and implemented [Beginner](https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0) and [Advanced Design Patterns](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [Data Structures](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift/v3.0) and [Concurrency in Swift](https://www.raywenderlich.com/books/concurrency-by-tutorials/v2.0)
@@ -16,8 +14,7 @@ __Software Development Engineer III - iOS__
 - Implemented a Journal App POC
 
 ### Bubblin
-Washington DC, United States - Remote
-
+Washington DC, United States - Remote  
 _March, 2019 - September, 2020_
 
 Red Goose is a web to mobile app converter which is primarily targeted at startups and small businesses who want to have a presence on mobile platforms in addition to their existing web apps. It is a nifty tool to convert websites into mobile apps.
@@ -41,8 +38,7 @@ __Product Engineer__
 __Technologies__: Swift, Kotlin, JavaScript, Shell, MongoDB, HTML, CSS, Xcode, Android Studio, Visual Studio Code, Carthage, Gradle, Push Notifications, Node.js, Express, Stripe SDK, Fastlane, GitHub Actions, Docker
 
 ### Wooplr Technologies
-Bengaluru, India
-
+Bengaluru, India  
 _August, 2017 - March, 2019_
 
 Wooplr App enabled the shop owners to open their online e-commerce store. Built on top of the e-commerce platform, it helped them to place orders on their customers’ behalf, discover new products to sell on a regularly updated and curated feed of products and product collections, track their earnings, read and watch videos of helpful FAQs to learn about operating an online business. It was used by more than 10 million users.
@@ -81,8 +77,7 @@ _Mobile Engineering, iOS_
 __Technologies__: Objective-C, Swift, Xcode, CoreData, Realm, Push Notifications, Universal and Deep Links, Firebase, Google Cloud, REST, JIRA, Fastlane, Jenkins
 
 ### Vicinage Networks
-New Delhi, India
-
+New Delhi, India  
 _August, 2016 - July, 2017_
 
 MYOLO was a community and event platform which helped users discover people with similar interests to create meaningful interactions and conversations. It also listed events based on specific interests. The application let users discover other users, chat with them, find new events happening around them, reserve and book tickets for events. Monthly active users were 20,000
@@ -104,8 +99,7 @@ __Lead iOS Developer__
 __Technologies__: Objective-C, Swift, Xcode, Location Tracking, Keychain, Universal Links, Realm, REST, Sockets, OAuth 2, JWT, Firebase, Fastlane
 
 ### RoadCast Tech
-New Delhi, India
-
+New Delhi, India. 
 _November, 2015 — July, 2016_
 
 RoadCast App is a two-way tracking platform. Two or more users can connect with this application on their mobile device and allow instant access to their travel route shown through Google Maps making it easy to follow one’s route.
@@ -122,8 +116,7 @@ __Mobile Developer Consultant__
 __Technologies__: Objective-C, MVVM, Push Notifications, Real Time Navigation, Location Tracking, Universal Links, ReactiveCocoa, Realm, REST, Socket, Fastlane
 
 ### Teamie
-New Delhi, India & Singapore, Singapore
-
+New Delhi, India & Singapore, Singapore  
 _July, 2012 - July, 2016_
 
 Teamie is a Social Learning Platform that makes learning fun & collaborative, while helping teachers save their time, and providing real-time visibility to parents & school management. Teamie app enables educators, students, administrators and parents to collaborate on a single platform. Access classrooms, newsfeed, notifications on bulletin board, share thoughts or questions, interact socially on thoughts (Comment, Like / Echo), view lessons & quizzes, take photos & videos and share with the classroom.
@@ -151,16 +144,13 @@ __Technologies__: Objective-C, MVVM, ReactiveCocoa, CoreData, Today Widget, Push
 Swift, Objective-C, JavaScript, C, C++
 
 ## Education
-__Rajasthan Technical University, Kota__
-
-Bachelor of Technology, Computer Science
-
+__Rajasthan Technical University, Kota__  
+Bachelor of Technology, Computer Science  
 2008 - 2012
 
 ## Internships
 ### Accentium Web
-Gurgaon, India
-
+Gurgaon, India  
 _Jul 2011 - Aug 2011_
 
 __Backend Engineer Intern__
