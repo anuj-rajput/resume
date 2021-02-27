@@ -19,10 +19,9 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           output_dir: output
-          image_import: ./images
-          build_html: true
+          build_html: false
       - uses: actions/upload-artifact@v1
         with:
-          name: docs
+          name: resume
           path: output
 

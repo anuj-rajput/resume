@@ -8,7 +8,7 @@ Bengaluru, India - Remote
 
 _October 2020 － Present_
 
-__iOS, Software Development Engineer III__
+__Software Development Engineer III - iOS__
 
 - Currently learning: [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
 - Read and implemented [Beginner](https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0) and [Advanced Design Patterns](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [Data Structures](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift/v3.0) and [Concurrency in Swift](https://www.raywenderlich.com/books/concurrency-by-tutorials/v2.0)
@@ -152,7 +152,9 @@ Swift, Objective-C, JavaScript, C, C++
 
 ## Education
 __Rajasthan Technical University, Kota__
+
 Bachelor of Technology, Computer Science
+
 2008 － 2012
 
 ## Internships
