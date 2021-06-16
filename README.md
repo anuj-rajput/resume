@@ -3,16 +3,17 @@
 [+91-9810204945](tel:+919810204945) | [me@anujrajput.com](mailto:me@anujrajput.com) | [Twitter](https://twitter.com/anujrajput) | [LinkedIn](https://linkedin.com/in/anujrajput) | [GitHub](https://github.com/anuj-rajput)
 
 ## Experience
-### Nineleaps Tech
+### ThoughtWorks
 Bengaluru, India - Remote  
 _October 2020 - Present_  
 
-__Software Development Engineer III - iOS__  
-
-- Currently learning: [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
-- Read and implemented [Beginner](https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0) and [Advanced Design Patterns](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [Data Structures](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift/v3.0) and [Concurrency in Swift](https://www.raywenderlich.com/books/concurrency-by-tutorials/v2.0)
-- Followed and implemented [Hacking with Swift - 100 Days of Swift](https://www.hackingwithswift.com/100) and [Hacking with Swift - 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
-- Implemented a Journal App POC
+__Senior Mobile Developer - iOS__  
+Learnings
+- [RxSwift](https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0) and [Combine](https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0)
+- [TDD in Swift](https://www.raywenderlich.com/books/ios-test-driven-development-by-tutorials/v1.0)
+- [Beginner](https://www.raywenderlich.com/books/design-patterns-by-tutorials/v3.0) and [Advanced Design Patterns](https://www.raywenderlich.com/books/advanced-ios-app-architecture/v3.0), [Data Structures](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift/v3.0) and [Concurrency in Swift](https://www.raywenderlich.com/books/concurrency-by-tutorials/v2.0)
+- [Hacking with Swift - 100 Days of Swift](https://www.hackingwithswift.com/100) and [Hacking with Swift - 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- Journal App proof-of-concept
 
 ### Bubblin
 Washington DC, United States - Remote  
